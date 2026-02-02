@@ -127,8 +127,8 @@ Customer-Segmentation-Behavior-Analysis/
 │   ├── value_segmentation.sql
 │   └── refund_segmentation.sql
 │
-├── notes/
-│   └── README.md
+├
+│   
 │
 └── README.md
 
