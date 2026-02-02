@@ -3,9 +3,9 @@
 
 ---
 
-E-commerce Order Fulfillment Operations Analysis
+## E-commerce Order Fulfillment Operations Analysis
 
-📌 Project Overview
+# Project Overview
 
 This project analyzes e-commerce order fulfillment operations data to evaluate how efficiently orders move from creation to completion. The focus is on identifying delay patterns, failure points, and operational bottlenecks using spreadsheet-based analysis.
 
@@ -14,14 +14,14 @@ The objective was not prediction or modeling, but operational clarity: understan
 
 ---
 
-❓ Problem Statement
+# Problem Statement
 
 E-commerce operations often suffer from delayed or failed order fulfillment, but the root causes are unclear without structured analysis. This project addresses the lack of visibility by breaking down fulfillment performance across different operational stages.
 
 
 ---
 
-🧠 What Was Done (Actual Work)
+# What Was Done (Actual Work)
 
 1. Data Preparation
 
