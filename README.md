@@ -3,9 +3,9 @@
 
 ---
 
-## E-commerce Order Fulfillment Operations Analysis
+# E-commerce Order Fulfillment Operations Analysis
 
-# Project Overview
+## Project Overview
 
 This project analyzes e-commerce order fulfillment operations data to evaluate how efficiently orders move from creation to completion. The focus is on identifying delay patterns, failure points, and operational bottlenecks using spreadsheet-based analysis.
 
@@ -14,16 +14,16 @@ The objective was not prediction or modeling, but operational clarity: understan
 
 ---
 
-# Problem Statement
+## Problem Statement
 
 E-commerce operations often suffer from delayed or failed order fulfillment, but the root causes are unclear without structured analysis. This project addresses the lack of visibility by breaking down fulfillment performance across different operational stages.
 
 
 ---
 
-# What Was Done (Actual Work)
+## What Was Done (Actual Work)
 
-1. Data Preparation
+### 1. Data Preparation
 
 Reviewed raw order fulfillment records
 
@@ -37,7 +37,7 @@ Filtered data to focus on relevant fulfillment outcomes
 
 ---
 
-2. Operational Analysis
+### 2. Operational Analysis
 
 Analyzed total order volume and fulfillment outcomes
 
@@ -53,7 +53,7 @@ Used summary tables and pivot-style analysis to extract insights
 
 ---
 
-3. Metrics Calculated
+### 3. Metrics Calculated
 
 Total orders processed
 
@@ -71,7 +71,7 @@ Stage-level contribution to delays
 
 ---
 
-📊 Key Insights
+## Key Insights
 
 Shipping and logistics stages contribute more to delays than internal order processing
 
@@ -87,7 +87,7 @@ These findings help prioritize operational fixes with maximum impact.
 
 ---
 
-📂 Project Structure
+## Project Structure
 
 E-commerce-Order-Fulfillment-Operations-Analysis/
 │
@@ -109,7 +109,7 @@ E-commerce-Order-Fulfillment-Operations-Analysis/
 
 ---
 
-🛠 Tools Used
+## Tools Used
 
 Microsoft Excel for data cleaning and analysis
 
@@ -123,7 +123,7 @@ Git and GitHub for version control
 
 ---
 
-⚠️ Limitations
+## Limitations
 
 Analysis is descriptive, not predictive
 
@@ -135,7 +135,7 @@ Results depend on data quality and completeness
 
 ---
 
-🚀 Future Improvements
+## Future Improvements
 
 Automate analysis using Python (pandas, matplotlib)
 
